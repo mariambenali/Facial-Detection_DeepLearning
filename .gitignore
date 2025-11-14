@@ -1,0 +1,11 @@
+myvenv/
+venv/
+.env
+__pycache__/
+.DS_Store
+data/
+*.h5
+*.keras
+*.tflite
+*.ckpt
+.pytest_cache/

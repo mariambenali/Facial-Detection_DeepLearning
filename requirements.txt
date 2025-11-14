@@ -1,0 +1,11 @@
+Tensorflow
+matplotlib
+opencv-python
+numpy
+scikit-learn
+fastapi 
+uvicorn 
+sqlalchemy
+pytest
+httpx
+
